@@ -1,0 +1,10 @@
+.homepage h1 {
+  color: white;
+}
+.about h1 {
+  font-family: "Viga", sans-serif;
+  text-decoration: underline;
+}
+.card-text {
+  font-weight: bold;
+}
